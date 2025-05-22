@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/nodejs-16-minimal:1-65
+FROM nodejs-16-minimal:1-65
 
 ENV NPM_CACHE=/tmp/.npm
 
